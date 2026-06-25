@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "Primo articolo di esempio",
+        "excerpt": "Questo è il riassunto del primo articolo."
+    },
+    {
+        "id": 2,
+        "title": "Secondo articolo di esempio",
+        "excerpt": "Questo è il riassunto del secondo articolo."
+    },
+    {
+        "id": 3,
+        "title": "Terzo articolo di esempio",
+        "excerpt": "Questo è il riassunto del terzo articolo."
+    }
+]
