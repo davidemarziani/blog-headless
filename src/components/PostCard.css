@@ -19,3 +19,15 @@
 .post-excerpt p {
   margin: 0;
 }
+
+.post-title a {
+  text-decoration: none;
+}
+
+.post-read-more {
+  display: inline-block;
+  margin-top: 20px;
+  font-weight: 700;
+  text-decoration: none;
+  border-bottom: 2px solid currentColor;
+}
