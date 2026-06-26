@@ -1,4 +1,4 @@
-const API_BASE_URL = "https://goonitalia.it/wp-json/wp/v2";
+const API_BASE_URL = "https://new.goonitalia.it/wp-json/wp/v2";
 
 export async function getPosts() {
   const response = await fetch(`${API_BASE_URL}/posts?_embed&per_page=6`);
